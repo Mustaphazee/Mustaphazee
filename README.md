@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mustaphazee
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me on github ...@Mustaphazee
 
 <!---
 Mustaphazee/Mustaphazee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
